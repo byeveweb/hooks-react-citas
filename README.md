@@ -1,2 +1,6 @@
-# hooks-react-citas
-Simple APP for citas with react
+# Hooks-react-citas
+Simple APP
+                               
+# Deployment
+https://sharp-heyrovsky-ff517e.netlify.app/
+
